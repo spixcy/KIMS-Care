@@ -1,4 +1,9 @@
 package com.Spixcy.KIMS.Care.Service;
 
-public class PatientService {
+import org.springframework.stereotype.Service;
+
+@Service
+public class PatientService
+{
+
 }
