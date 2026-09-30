@@ -1,0 +1,2 @@
+cd "C:\Users\KIIT\Desktop\spring boot\Kims Care\Flutter Frontend"
+flutter run -d 00158353O003818
